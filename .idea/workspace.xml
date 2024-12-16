@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea49aa2-b377-41b8-b8d0-f1928902527d" name="Changes" comment="modify fifth and six tasks to functions">
+    <list default="true" id="8ea49aa2-b377-41b8-b8d0-f1928902527d" name="Changes" comment="do all tasks">
+      <change afterPath="$PROJECT_DIR$/second_task_result.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_task_result_compress.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_first_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_first_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_second_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_second_task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Novikov-study/Eng_Data_Homework_1.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Novikov-study/Eng_Data_HW_2.git&quot;,
     &quot;accountId&quot;: &quot;f710141c-929f-4791-90cc-618aed30280c&quot;
   }
 }</component>
@@ -48,23 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Another_F_T.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fifth_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.First_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fist_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fourth_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Second_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Six_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Third_task.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#1 on HW__Eng__data__2&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/novik/PycharmProjects/EngData_1/Data&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2_second_task.executor": "Run",
+    "Python.Another_F_T.executor": "Run",
+    "Python.Fifth_task.executor": "Run",
+    "Python.First_task.executor": "Run",
+    "Python.Fist_task.executor": "Run",
+    "Python.Fourth_task.executor": "Run",
+    "Python.Second_task.executor": "Run",
+    "Python.Six_task.executor": "Run",
+    "Python.Third_task.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/novik/PycharmProjects/EngData_1/Data",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\novik\PycharmProjects\EngData_1\Data" />
@@ -132,13 +138,30 @@
       <option name="project" value="LOCAL" />
       <updated>1731607738376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="do all tasks">
+      <option name="closed" value="true" />
+      <created>1732444056122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732444056122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="do all tasks">
+      <option name="closed" value="true" />
+      <created>1732444132557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732444132557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add all" />
     <MESSAGE value="add master" />
     <MESSAGE value="modify fifth and six tasks to functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify fifth and six tasks to functions" />
+    <MESSAGE value="do all tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="do all tasks" />
   </component>
 </project>

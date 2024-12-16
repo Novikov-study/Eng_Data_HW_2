@@ -8,7 +8,7 @@ z = []
 
 for i in range(matrix.shape[0]):
     for j in range(matrix.shape[1]):
-        if matrix[i][j] > 586:
+        if matrix[i][j] > 516:
             x.append(i)
             y.append(j)
             z.append(matrix[i][j])
